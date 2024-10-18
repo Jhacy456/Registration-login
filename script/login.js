@@ -12,5 +12,5 @@ event.preventDefault();
     );
     // Display success message
     const messageH1 = document.querySelector('#message');
-    messageH1.textContent = 'Account logged in successfuly'
+    messageH1.textContent = 'Account logged in successfuly!'
 });
